@@ -1,4 +1,4 @@
-package com.qinglan.pojo;
+package com.example.pojo;
 
 import lombok.Data;
 import tk.mybatis.mapper.annotation.KeySql;
