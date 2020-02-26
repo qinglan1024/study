@@ -1,0 +1,10 @@
+server:
+  port: 80
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:33006/jucon
+    username: root
+    password: system
+mybatis:
+  type-aliases-package: com.qinglan.pojo
